@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.19">
+	<CommandsVisibility>
+		<Command name="Report.ЖурналУчетаСчетовФактур.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Report.КнигаПокупок.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Report.КнигаПродаж.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:4463f2be-e15c-40f2-9937-1b8d3a30c809">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="Report.ЖурналУчетаСчетовФактур.StandardCommand.Open">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Report.КнигаПокупок.StandardCommand.Open">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Report.КнигаПродаж.StandardCommand.Open">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:4463f2be-e15c-40f2-9937-1b8d3a30c809">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="0:29dc7c31-3b21-4ef9-b8c6-f363ab972131">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Enum.ВидыАгентскихДоговоров.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="DocumentJournal.ДокументыПоУчетуНДСДляПередачиВЭлектронномВиде.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Enum.НДСКодыОперацийПоОбъектамНедвижимости.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:a95160f0-1db7-489d-9cb5-20610b08cedc">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:db1e2c75-c0b2-4901-92b7-e28f6fba294a">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="0:32b77da9-151d-422f-9b6a-27d2f517f210">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Enum.НДССостоянияРеализация0.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Enum.СобытияПоНДСПокупки.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Enum.СобытияПоНДСПродажи.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
+		<Command name="Report.ЖурналУчетаСчетовФактур.StandardCommand.Open">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+		</Command>
+		<Command name="Report.КнигаПокупок.StandardCommand.Open">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+		</Command>
+		<Command name="Report.КнигаПродаж.StandardCommand.Open">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+		</Command>
+		<Command name="0:4463f2be-e15c-40f2-9937-1b8d3a30c809">
+			<CommandGroup>110da4eb-1558-4a11-baea-cff453867567</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>NavigationPanelOrdinary</Group>
+		<Group>ActionsPanelReports</Group>
+		<Group>110da4eb-1558-4a11-baea-cff453867567</Group>
+	</GroupsOrder>
+</CommandInterface>

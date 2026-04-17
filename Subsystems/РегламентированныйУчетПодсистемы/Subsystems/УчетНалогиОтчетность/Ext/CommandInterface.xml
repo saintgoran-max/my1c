@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.19">
+	<CommandsVisibility>
+		<Command name="0:7e13d730-2670-4da3-82f0-76cc66b04851">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:0d1b6200-4f71-44e9-8eb8-0beadaf4ccdf">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:898caaf3-a450-451f-a2c0-03822f003c5a">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:68116c57-8832-4a7c-b8ec-b0ad90269d03">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:80d00fb5-9dd3-4dab-86ba-67bfa496e964">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:400c8cb1-1d52-451a-b0b2-d6f336fafd7d">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:cca4c257-f654-486a-9e9a-f2b8656b2ec4">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:afc08278-fcc7-40b6-b4fb-ac829579ea4f">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:7d2789f4-f5e6-40fe-94b2-8892d13aed57">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:8a7d09db-b99c-4d32-aebf-707ac1db5ecc">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:af357aa0-e8fc-4ca4-8971-e8e4a1515837">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="0:a55b0584-d0b1-426d-a350-1e57612e8b60">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+	<CommandsPlacement>
+		<Command name="0:7e13d730-2670-4da3-82f0-76cc66b04851">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:0d1b6200-4f71-44e9-8eb8-0beadaf4ccdf">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:898caaf3-a450-451f-a2c0-03822f003c5a">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:68116c57-8832-4a7c-b8ec-b0ad90269d03">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:80d00fb5-9dd3-4dab-86ba-67bfa496e964">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:400c8cb1-1d52-451a-b0b2-d6f336fafd7d">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:cca4c257-f654-486a-9e9a-f2b8656b2ec4">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:afc08278-fcc7-40b6-b4fb-ac829579ea4f">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:7d2789f4-f5e6-40fe-94b2-8892d13aed57">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:8a7d09db-b99c-4d32-aebf-707ac1db5ecc">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:af357aa0-e8fc-4ca4-8971-e8e4a1515837">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="0:a55b0584-d0b1-426d-a350-1e57612e8b60">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="0:7e13d730-2670-4da3-82f0-76cc66b04851">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:0d1b6200-4f71-44e9-8eb8-0beadaf4ccdf">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:898caaf3-a450-451f-a2c0-03822f003c5a">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:68116c57-8832-4a7c-b8ec-b0ad90269d03">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:80d00fb5-9dd3-4dab-86ba-67bfa496e964">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:400c8cb1-1d52-451a-b0b2-d6f336fafd7d">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:cca4c257-f654-486a-9e9a-f2b8656b2ec4">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:afc08278-fcc7-40b6-b4fb-ac829579ea4f">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:7d2789f4-f5e6-40fe-94b2-8892d13aed57">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:8a7d09db-b99c-4d32-aebf-707ac1db5ecc">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:af357aa0-e8fc-4ca4-8971-e8e4a1515837">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+		<Command name="0:a55b0584-d0b1-426d-a350-1e57612e8b60">
+			<CommandGroup>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<SubsystemsOrder>
+		<Subsystem>Subsystem.РегламентированныйУчетПодсистемы.Subsystem.УчетНалогиОтчетность.Subsystem.НДС</Subsystem>
+		<Subsystem/>
+		<Subsystem/>
+		<Subsystem/>
+	</SubsystemsOrder>
+	<GroupsOrder>
+		<Group>NavigationPanelImportant</Group>
+		<Group>ActionsPanelTools</Group>
+		<Group>1407dd41-7f0c-46da-a750-1667c061ace6</Group>
+		<Group>4db4e782-cda6-41f0-a8f8-4d2bd077fc0c</Group>
+	</GroupsOrder>
+</CommandInterface>
